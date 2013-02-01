@@ -135,6 +135,10 @@ h1 {
     text-align: center;
 }
 
+.error h1 {
+    padding: 100px;
+}
+
 h2 {
     color: #FAFAFA;
     font-size: 48px;
